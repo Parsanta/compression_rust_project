@@ -1,4 +1,5 @@
 #compression_rust_project
+
 compression_rust_project is a basic Rust project designed for practicing and showcasing Rust skills. This project focuses on creating a large file with randomly generated characters and then compressing it by removing consecutive characters.
 
 Purpose
